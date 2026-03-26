@@ -1,0 +1,6 @@
+<svg width="250" height="50" viewBox="0 0 250 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="50" height="50" rx="12" fill="#2563EB"/>
+  <path d="M15 25L22 32L35 18" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="65" y="33" font-family="Inter, sans-serif" font-size="24" font-weight="700" fill="#111827">LexPrivacy</text>
+  <text x="200" y="33" font-family="Inter, sans-serif" font-size="24" font-weight="300" fill="#6B7280">Hub</text>
+</svg>
